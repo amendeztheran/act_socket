@@ -1,0 +1,26 @@
+{
+  "name": "act_socket",
+  "version": "1.0.0",
+  "description": "Actividad Cliente servidor con socket (Node.js, Socket.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amendeztheran/act_socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amendeztheran/act_socket/issues"
+  },
+  "homepage": "https://github.com/amendeztheran/act_socket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.2.0"
+  }
+}
